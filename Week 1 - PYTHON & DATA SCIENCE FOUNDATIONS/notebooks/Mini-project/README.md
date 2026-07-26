@@ -16,4 +16,4 @@ The Week 1 capstone: a single notebook that runs the full **load → process →
 - Produced four labeled plots: age distribution (histogram), age vs. fare colored by survival (scatter), survival rate by class (bar), and a subplot comparing survival rate by family size against the fare distribution
 - Documented findings in Markdown for each plot — fare/class was strongly tied to survival, and mid-sized families survived at higher rates than solo travelers or very large families
 
-**Notebook:** [`Mini-Project.ipynb`](./Mini-Project.ipynb)
+**Notebook:** [`Mini-Project.ipynb`](./miniproject.ipynb)
