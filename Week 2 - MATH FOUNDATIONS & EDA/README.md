@@ -10,11 +10,11 @@ IMDb Top 1000 Movies (`imdb_top_1000.csv`) - used consistently across all five d
 
 | Day | Topic | Focus |
 |---|---|---|
-| [Day 1] | Descriptive Statistics | Mean, median, mode, spread, mean vs. median on skewed data |
-| [Day 2] | Probability & Distributions | Conditional probability, Bayes' theorem, normal/binomial/uniform distributions |
-| [Day 3] | Linear Algebra for ML | Vectors, matrices, dot product, matrix multiplication, shape errors |
-| [Day 4] | EDA Part 1 | Univariate distributions and outlier detection with Seaborn |
-| [Day 5] | EDA Part 2 | Bivariate analysis, correlation, full assembled EDA notebook |
+| Day 1 | Descriptive Statistics | Mean, median, mode, spread, mean vs. median on skewed data |
+| Day 2 | Probability & Distributions | Conditional probability, Bayes' theorem, normal/binomial/uniform distributions |
+| Day 3 | Linear Algebra for ML | Vectors, matrices, dot product, matrix multiplication, shape errors |
+| Day 4 | EDA Part 1 | Univariate distributions and outlier detection with Seaborn |
+| Day 5 | EDA Part 2 | Bivariate analysis, correlation, full assembled EDA notebook |
 
 ## Tools & Libraries
 NumPy, Pandas, Matplotlib, Seaborn 0.13.2, Jupyter Notebook, Python 3.13
