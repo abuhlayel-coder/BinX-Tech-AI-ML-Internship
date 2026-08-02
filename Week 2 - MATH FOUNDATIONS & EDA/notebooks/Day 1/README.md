@@ -18,7 +18,7 @@ IMDb Top 1000 Movies (`imdb_top_1000.csv`)
 - Justified which measure better represents a "typical" value for skewed data
 
 ## Key Takeaway
-The mean is pulled toward outliers; the median is not. For right-skewed data (like ticket fares or movie gross revenue), the median is usually the more honest measure of a "typical" value.
+The mean is pulled toward outliers; the median is not. For right-skewed data (like Number of Votes or movie gross revenue), the median is usually the more honest measure of a "typical" value.
 
 ## Files
 - `Day 1_Descriptive_Statistics.ipynb`

@@ -23,4 +23,4 @@ Diabetes dataset (`sklearn.datasets.load_diabetes`)
 Never evaluate a model on the same data it was trained on. A model can memorize its training data and look perfect, yet fail completely on new data — splitting the data into train and test sets is the only honest way to estimate real-world performance.
 
 ## Files
-- `Week3_Day1_Supervised_Learning_Basics.ipynb`
+- `day1_supervised_learning.ipynb`
