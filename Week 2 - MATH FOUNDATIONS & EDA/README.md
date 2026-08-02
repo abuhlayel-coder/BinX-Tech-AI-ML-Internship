@@ -21,7 +21,7 @@ NumPy, Pandas, Matplotlib, Seaborn 0.13.2, Jupyter Notebook, Python 3.13
 
 ## Key Takeaways From the Week
 - Statistics (mean/median/spread) describe a dataset; probability describes uncertainty about it; linear algebra is how models actually compute predictions from it - EDA ties all three together into practice.
-- Skewed data (fares, votes, gross revenue) makes the median more trustworthy than the mean.
+- Skewed data (votes, gross revenue) makes the median more trustworthy than the mean.
 - Outliers require investigation, not automatic removal.
 - Correlation shows relationship strength, never causation.
 - A complete EDA notebook (stats -> distributions -> outliers -> relationships -> narrative) is the reusable template for every future project.
