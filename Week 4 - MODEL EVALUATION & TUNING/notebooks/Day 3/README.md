@@ -17,7 +17,7 @@ Breast Cancer Wisconsin dataset (`sklearn.datasets.load_breast_cancer`) — same
 The train-vs-validation gap is the core diagnostic tool for model fit: a large gap signals overfitting (high variance), while low scores on both signal underfitting (high bias). Regularization trades a small amount of training accuracy for a smaller gap — i.e., it reduces variance at the cost of a bit more bias.
 
 ## Files
-- `Week4_Day3_Bias_Variance.ipynb` — fully executed notebook (includes a saved regularization plot)
+- `day3_Bias_Variance.ipynb` — fully executed notebook (includes a saved regularization plot)
 
 ## Tools Used
 Scikit-learn (`DecisionTreeClassifier`, `LogisticRegression`, `StandardScaler`) • Pandas • Matplotlib • Jupyter Notebook
