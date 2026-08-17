@@ -26,7 +26,7 @@ A `Pipeline` chains preprocessing and modeling into one object, so scaling is al
 Train/val/test discipline (Day 1) → cross-validation for reliable estimates (Day 2) → bias-variance diagnosis and regularization (Day 3) → feature engineering and systematic tuning (Day 4) → all combined into one leak-free, tuned pipeline (Day 5).
 
 ## Files
-- `Week4_Day5_Pipeline_Mini_Project.ipynb` — fully executed notebook
+- `day5_Pipeline_Mini_Project.ipynb` — fully executed notebook
 
 ## Tools Used
-Scikit-learn (`Pipeline`, `ColumnTransformer`, `GridSearchCV`, `RandomForestClassifier`) • Pandas • Jupyter Notebook
+Scikit-learn (`Pipeline`, `ColumnTransformer`, `GridSearchCV`, `RandomForestClassifier`) • Pandas • Matplotlib • Jupyter Notebook
