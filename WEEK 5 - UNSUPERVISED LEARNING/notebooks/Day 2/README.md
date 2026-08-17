@@ -16,7 +16,7 @@ Wine dataset (`sklearn.datasets.load_wine`) — same 178 samples, 13 scaled chem
 No single clustering method is universally best — DBSCAN excels when data has irregular shapes and genuine outliers to flag, but on this dataset, with well-separated, similarly-sized groups, K-Means and Hierarchical clustering (which largely agree with each other) are the better fit. Comparing multiple methods with the same metric (silhouette score) is what makes that call possible, not just intuition.
 
 ## Files
-- `Week5_Day2_DBSCAN_Hierarchical.ipynb` — fully executed notebook
+- `day2_DBSCAN_Hierarchical.ipynb` — fully executed notebook
 
 ## Tools Used
 Scikit-learn (`DBSCAN`, `KMeans`, `silhouette_score`) • SciPy (`linkage`, `dendrogram`, `fcluster`) • Pandas • Matplotlib • Jupyter Notebook
