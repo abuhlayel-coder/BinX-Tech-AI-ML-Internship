@@ -17,7 +17,7 @@ Wine dataset (`sklearn.datasets.load_wine`) — 178 samples, 13 chemical measure
 Without any labels, K-Means, guided by the elbow method and silhouette score, recovered groupings that closely matched the wine's real cultivar categories — evidence that the algorithm found genuine chemical structure in the data, not an arbitrary split.
 
 ## Files
-- `Week5_Day1_KMeans.ipynb` — fully executed notebook
+- `day1_KMeans.ipynb` — fully executed notebook
 
 ## Tools Used
 Scikit-learn (`KMeans`, `StandardScaler`, `silhouette_score`) • Pandas • Matplotlib • Jupyter Notebook
