@@ -16,7 +16,7 @@ Wine dataset (`sklearn.datasets.load_wine`) — same 178 samples, 13 scaled chem
 PCA's value here is less about aggressive compression (13→10 for 95% variance is a modest cut) and more about visualization: reducing 13 dimensions to just 2 still preserved enough structure to visually separate the wine cultivars, even though PCA never saw those labels during fitting.
 
 ## Files
-- `Week5_Day3_PCA.ipynb` — fully executed notebook
+- `day3_PCA.ipynb` — fully executed notebook
 
 ## Tools Used
 Scikit-learn (`PCA`, `StandardScaler`) • Pandas • Matplotlib • Jupyter Notebook
